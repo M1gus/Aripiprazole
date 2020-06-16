@@ -9,10 +9,7 @@
 
 10/6/2020
 
-Here, I will dock different ligands to C1, at ONLY the Q site, on the Open conformation, to investigate compatitive binding. The receptor structure is AllCxI_Q10.pbd, which is a simulated structure by Hirst *et al.*. (PNAS, 2016) I renamed it to hirst_C1_o.pdb.
-<br>
-Methodology:
-I will dock both ligands at both sites, at 200 exhaustiveness, which is the max allowed by the HPC. 
+Here, we dock different ligands to C1, at ONLY the Q site, on the Open conformation, to investigate compatitive binding. The receptor structure is AllCxI_Q10.pbd, which is a simulated structure by Hirst *et al.*. (PNAS, 2016) I renamed it to hirst_C1_o.pdb. Calculations are performed at 200 exhaustiveness, which is the max allowed by the HPC. 
 
 This script creates the preparation files for docking on a Linux-based HPC, using a simple loop to run everything. This script is written for MacOS.
 
@@ -72,7 +69,7 @@ All files are sent to a Linux-based high performance computing cluster for the c
 
 The binding constants were calcualted using an R script: Ki_calculations_from_deltaG.R
 
-### Visualisation in Pymol:
+Visualisation in Pymol:
 
 The nearest chains to the U site are D, B and H (all in capital)
 
