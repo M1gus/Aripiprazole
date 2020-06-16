@@ -1,4 +1,4 @@
-# Repository for: Hardy *et al.* (2020) Toxicity of xxxx on Mitochondrial Complex 1.
+# Repository for: Hardy *et al.* (2020) Toxicity of xxxx on Mitochondrial Complex I.
 
 ## Author: Yizhou Yu
 
