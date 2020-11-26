@@ -1,4 +1,4 @@
-# Title: Hardy *et al.* (2020) Molecular modeling of inhibtors of mitochondrial complex I
+# Title: Hardy *et al.* (2020) Molecular modeling of novel inhibitors of mitochondrial complex I
 
 ## Author: Yizhou Yu, yzy21 [at] mrc-tox.cam.ac.uk
 
