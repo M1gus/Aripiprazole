@@ -1,4 +1,4 @@
-# Title: Hardy *et al.* (2020) Molecular modeling of inhibtors of mitochondrial complex 1
+# Title: Hardy *et al.* (2020) Molecular modeling of inhibtors of mitochondrial complex I
 
 ## Author: Yizhou Yu, yzy21 [at] mrc-tox.cam.ac.uk
 
@@ -10,7 +10,7 @@
 
 This pipeline relates to data and analysis included in Figures X of our study titled XX.
 
-Here, we dock different ligands to C1, at ONLY the Q site, on the Open conformation, to investigate competitive binding. The receptor structure is named AllCxI_Q10.pbd, which is a simulated structure by Hirst *et al.* (PNAS, 2016). We renamed it to hirst_C1_o.pdb after cleaning. Calculations are performed using Autodock Vina at 200 exhaustiveness, which is the max allowed by the HPC. 
+Here, we dock different ligands to CI, at ONLY the Q site, on the Open conformation, to investigate competitive binding. The receptor structure is named AllCxI_Q10.pbd, which is a simulated structure by Hirst *et al.* (PNAS, 2016). We renamed it to hirst_C1_o.pdb after cleaning. Calculations are performed using Autodock Vina at 200 exhaustiveness, which is the max allowed by the HPC. 
 
 The docking script creates the preparation files for docking on a Linux-based HPC, using a simple loop to run everything. They are in the folder call ari_rot_pieri_hpc_docked, along with the raw data.
 
