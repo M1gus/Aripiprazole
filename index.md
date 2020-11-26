@@ -21,6 +21,8 @@ The file Ki_calculations_from_deltaG.R contains a script to convert the deltaG v
 
 The raw and processed PDB coordinates of respiratory complex 1 are in raw_structures and processed_structures, respectively. Below is an example of preprocessing the PDB files. It also contains detailed notes for the subsequent docking calculations using Autodock Vina and visualisation using Pymol. 
 
+## Example code for preprocessing
+
 
 ```bash
 # take away the U10 and NADP ligands
@@ -64,6 +66,8 @@ NB: I took out the FMN, NADP, HSD, U10, ZN2 molecules by hand on pymol since the
     setting PYTHONHOME environment
 
 
+## Notes on docking using Autodock Vina
+
 For docking at the Q site: <br>
 `center_x = 73.6025098`
 
@@ -75,7 +79,7 @@ The size of the Q site is 13 x 21 x 39. By having a search space of 30 * 40 * 70
 
 All files are sent to a Linux-based high performance computing cluster for the calculations. 
 
-Visualisation in Pymol:
+## Visualisation in Pymol
 
 The nearest chains to the U site are D, B and H (all in capital)
 
