@@ -1,6 +1,6 @@
-# The antipsychotic medications aripiprazole, brexpiprazole and cariprazine are off-target respiratory chain complex I inhibitors 
+# MS Title
 
-## Rachel E. Hardy, Injae Chung, Yizhou Yu, Samantha HY Loh, Nobuhiro Morone, Clement Soleilhavoup, Marco Travaglio, Riccardo Serreli, Lia Panman, Kelvin Cain, Judy Hirst , Luis M. Martins, Marion MacFarlane, Kenneth R Pryde
+## Author list
 
 Yizhou Yu, yzy21 [at] mrc-tox.cam.ac.uk, MRC Toxicology Unit, University of Cambridge
 
