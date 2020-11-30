@@ -9,4 +9,4 @@ binding and reduction by respiratory complex I).
 
 Molecular_docking_of_aripiprazole_and_C1_inhibitors.md is the file used to prepared files for docking. 
 
-Our paper will be available soon. 
+Our paper titled *The antipsychotic medications aripiprazole, brexpiprazole and cariprazine are off-target respiratory chain complex I inhibitors* will be available soon.
