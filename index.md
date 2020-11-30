@@ -1,8 +1,8 @@
-# Title: Hardy *et al.* (2020) Molecular modeling of novel inhibitors of mitochondrial complex I
+# The antipsychotic medications aripiprazole, brexpiprazole and cariprazine are off-target respiratory chain complex I inhibitors 
 
-## Author: Yizhou Yu, yzy21 [at] mrc-tox.cam.ac.uk
+## Rachel E. Hardy, Injae Chung, Yizhou Yu, Samantha HY Loh, Nobuhiro Morone, Clement Soleilhavoup, Marco Travaglio, Riccardo Serreli, Lia Panman, Kelvin Cain, Judy Hirst , Luis M. Martins, Marion MacFarlane, Kenneth R Pryde
 
-### Affiliation: MRC Toxicology Unit, University of Cambridge
+Yizhou Yu, yzy21 [at] mrc-tox.cam.ac.uk, MRC Toxicology Unit, University of Cambridge
 
 ### Date: 10 June 2020
 
