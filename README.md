@@ -4,9 +4,6 @@
 
 ### Affiliation: MRC Toxicology Unit, University of Cambridge
 
-Here, we used Autodock Vina to dock Aripiprazole, piericidin and rotenone on mitochondrial complex 1 to investigate their inhibitory potential. The raw structure of mitochondria complex 1 was obtained from Fedor *et al.* 2016 (Correlating kinetic and structural data on ubiquinone
-binding and reduction by respiratory complex I). 
-
-Molecular_docking_of_aripiprazole_and_C1_inhibitors.md is the file used to prepared files for docking. 
+Here, I used Autodock Vina to dock a selection of noncanonical complex I inhibitors including aripiprazole on mitochondrial complex 1. The structure of mitochondrial complex 1 was obtained from Chung *et al.* 2021 (Cork-in-bottle mechanism of inhibitor binding to mammalian complex I). 
 
 Our paper titled *The antipsychotic medications aripiprazole, brexpiprazole and cariprazine are off-target respiratory chain complex I inhibitors* will be available soon.
